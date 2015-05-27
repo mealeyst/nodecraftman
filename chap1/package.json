@@ -1,0 +1,14 @@
+{
+  "name": "chap1",
+  "version": "0.0.1",
+  "description": "TDD with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Shawn Mealey",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
